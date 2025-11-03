@@ -63,10 +63,8 @@ Looking back on this week's experiences, I'm proud of my efforts in the [Web Cou
 
 [Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
 
-
 <!-- Links -->
-[criticism and constructive feedback]:https://cvdl.ben.edu/blog/why-is-everyone-talking-about-feedback/
-
+[criticism and constructive feedback]:https://www.coffeepals.com/blog/feedback-vs-criticism-a-managers-guide-to-constructive-communication
 
 
 
